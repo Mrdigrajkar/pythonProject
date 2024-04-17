@@ -28,8 +28,20 @@ print(a+b)
 # Set Type : set
 # Boolean type : bool -- (True/False)
 
+# DataType Practice
+x=100
+print(type(x))
 
+#In python Str and char are same
+y="Hey Buddy"
+print(type(y))
 
+z=10.25
+print(type(z))
+
+#Boolean should contain first letter in UpperCase
+a=True
+print(type(a))
 
 
 
